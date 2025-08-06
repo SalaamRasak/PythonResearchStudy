@@ -1,3 +1,3 @@
 # Python Flask Study
 
-I participated in a research study conducted by Ruhr University Bochum (RUB), Germany, using Python flask. I was tasked with the responsibility of coding some web functions without the aid of any AI tools. I did as instructed and delivered accordingly, thereby contributed to the success of the research study. 
+I participated in an academic research project led by **Ruhr University Bochum**, contributing backend logic using **Python Flask**. The tasks delivered include: developing core web functions and API endpoints without assistance from any AI tools—demonstrating hands-on coding proficiency and autonomy, integrating data flow and server-side functionality in a collaborative research environment.
